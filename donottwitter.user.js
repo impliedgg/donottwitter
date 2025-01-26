@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         DoNotTwitter
+// @namespace    https://github.com/impliedgg/donottwitter
 // @version      2025-01-26
-// @description  try to take over the world!
-// @author       You
+// @description  Replaces Twitter with a dummy page.
+// @author       @impliedgg - github
 // @match        https://x.com/*
+// @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=x.com
 // @grant        none
 // ==/UserScript==
